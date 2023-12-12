@@ -1,6 +1,8 @@
 
 # Visualização de Dados no Power BI
 
+![datavisualization](https://github.com/Ueliton2022/atividade_data_visualization/assets/104858997/28188b2a-0cb4-466d-965d-3786feaf9c5d)
+
 ## Introdução
 
 Esta documentação apresenta uma visualização de dados desenvolvida no Power BI, focada no consumo de alimentos. A análise abrange dois principais aspectos: o local de consumo predominante e os horários de pico. Os gráficos de barra escolhidos para representar esses dados oferecem uma visão clara das tendências observadas.
